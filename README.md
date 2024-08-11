@@ -1,7 +1,4 @@
-
-Developed "Flash Type" using React JS, a typing challenge application that measures and improves users' typing speed.
-The application tracks and displays key metrics such as the number of characters typed, words per minute (WPM), and overall speed.
-Integrated social sharing features, allowing users to share their results on various social platforms, enhancing engagement and competition.
+A simple typing speed test application which tracks and displays key metrics such as the number of characters typed, words per minute (WPM), and overall speed.
 
 Live Demo - https://mangalhemant.github.io/flash-type/
 
