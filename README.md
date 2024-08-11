@@ -1,3 +1,5 @@
+# Flash Type
+
 A simple typing speed test application which tracks and displays key metrics such as the number of characters typed, words per minute (WPM), and overall speed.
 
 Live Demo - https://mangalhemant.github.io/flash-type/
